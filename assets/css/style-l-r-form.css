@@ -1,0 +1,71 @@
+.bimage
+{
+	background-image:url("a3.JPG");
+	height:60%;
+	background-size:cover;
+	background-position:center;
+}
+table{
+	background-color: rgba(0,0,0,0.6);
+	border-radius:10.5px;
+	width:400px;
+	color: #fff;
+}
+.in
+{
+	background-color:transparent;
+	width:100%;
+	margin:0 0 15px;
+	height:40px;
+	padding:10px;
+	font-size:20px;
+	color:orange;
+	text-align:center;
+	border-radius:10.5px;
+	border-style:groove;
+	border-bottom:hidden;
+}
+
+.btn
+{
+	text-transform:uppercase;
+	background:darkgray;
+	width:100%;
+	border:0;
+	padding:15px;
+	color:beige;
+	cursor:pointer;
+	border-radius:12.5px;
+	font-size:20px;
+}
+a
+{
+	font-size:25px;
+	color:orange;
+	text-decoration:none;
+}
+
+select
+{
+	height:30px;
+	width:300px;
+	font-size:15px;
+	background-color:transparent;
+	color:#FFF;
+	border-radius:10.5px;
+	text-align:center;
+	border-style:groove;
+	border-bottom:hidden;
+}
+h1
+{
+	color:beige;
+	height:50px;
+	background-color: rgba(0,0,0,0.8);
+	border-radius:10.5px;
+}
+
+h3
+{
+	color:lightblue;
+}
